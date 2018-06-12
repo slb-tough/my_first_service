@@ -1,0 +1,35 @@
+[1;0;34m	-	2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 22
+Debugs	
+[0m[1;0;32m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 23
+Info	
+[0m[1;0;33m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 24
+Warn	
+[0m[1;0;35m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 25
+Error	
+[0m[1;0;34m	-	2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 45
+[Debug Debug]	
+[0m[1;0;32m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 46
+Info	
+[0m[1;0;33m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 47
+Warn	
+[0m[1;0;35m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 48
+Error	
+[0m[1;0;34m	-	2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 60
+[Debug Debug]	
+[0m[1;0;32m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 61
+Info	
+[0m[1;0;33m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 62
+Warn	
+[0m[1;0;35m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 63
+Error	
+[0m[1;0;32m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 65
+{10 qiang.sheng}	
+[0m[1;0;34m	-	2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 70
+[Debug Debug]	
+[0m[1;0;32m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 71
+Info	
+[0m[1;0;33m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 72
+Warn	
+[0m[1;0;35m  -   2018-06-12 18:23:38 >> file: utils/log/log_test.go   line: 73
+Error	
+[0m
